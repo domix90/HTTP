@@ -28,3 +28,5 @@ Then I use GET (to make a request to fetch the CONTENT at the root "/" - thats w
 GET|POST[REQUEST LINE] / or /xml or any other resources[called URI] HTTP/1.1[VERSION]
 Host: httpbin.org  + 2x space 
 
+URI - uniform resource identifier
+
