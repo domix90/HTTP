@@ -15,3 +15,12 @@ Install Telnet on Windows
 Enable Telnet on Windows
 Installing Telnet Client - Linux
 It's possible that Telnet is already installed and ready to use in your terminal. If not, search for instructions on your specific distribution. Depending on the package management utility you use, you may be able to install with apt-get or yum.
+
+
+
+To make a request to a server I use : 
+
+telnet httpbin.org 80  
+
+Then I use GET (to make a request to fetch the CONTENT at the root "/" - thats why the single slash) / HTTP/1.1
+(the protocol version used for the request is 1.1)
