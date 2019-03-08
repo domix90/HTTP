@@ -1,0 +1,17 @@
+Tim Berners-Lee and his team proposed the World Wide Web project
+in 1989, what soon followed was the first published version of HTTP (hyperText Transfer Protocol) this was HTTP 0.9 in 1991.
+
+
+
+Installing Telnet Client - OSX
+If you're using a Mac, Telnet should be installed and enabled. Simply open a terminal and execute some of the commands used in this video.
+
+Installing Telnet Client - Windows
+Depending on your version of Windows, you may already have it installed, and you simply need to enable it. Opening PowerShell and attempting to use Telnet will reveal whether or not you'll need to install.
+
+Try executing some of the commands we use in the video. If they aren't recognized, then you'll need to either enable or install Telnet. Here are a couple resources based on those two scenarios:
+
+Install Telnet on Windows
+Enable Telnet on Windows
+Installing Telnet Client - Linux
+It's possible that Telnet is already installed and ready to use in your terminal. If not, search for instructions on your specific distribution. Depending on the package management utility you use, you may be able to install with apt-get or yum.
