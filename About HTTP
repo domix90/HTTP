@@ -23,4 +23,4 @@ To make a request to a server I use :
 telnet httpbin.org 80  
 
 Then I use GET (to make a request to fetch the CONTENT at the root "/" - thats why the single slash) / HTTP/1.1
-(the protocol version used for the request is 1.1)
+(the protocol version used for the request is 1.1)  -- all this is called request line 
