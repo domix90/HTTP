@@ -30,3 +30,13 @@ Host: httpbin.org  + 2x space
 
 URI - uniform resource identifier
 
+HEADERS [Header name] [Header Value]
+each on its own line 
+
+LIKE 
+
+host: httpbin.org
+User-Agent: telnet
+
+
+JSON - javaScript object notation 
